@@ -29,9 +29,9 @@
 import { ref } from 'vue'
 
 const albums = ref([
-  { title: 'Nocturnal Echoes', type: 'Album', year: '2024' },
-  { title: 'Digital Dreams', type: 'EP', year: '2023' },
-  { title: 'Infinite Horizons', type: 'Album', year: '2023' },
-  { title: 'Sunset Frequencies', type: 'Single', year: '2022' },
+  { title: 'Huwag ng Lumingon', type: 'Album', year: '2025' },
+  { title: 'Sakali', type: 'EP', year: '2025' },
+  { title: 'Malaya Na (Sa Wakas!)', type: 'Album', year: '2025' },
+  { title: 'Mailap', type: 'Single', year: '2025' },
 ])
 </script>
