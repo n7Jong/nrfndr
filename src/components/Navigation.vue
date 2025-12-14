@@ -6,7 +6,6 @@
         <a href="#" class="hover:text-white/70 transition-colors uppercase">Home</a>
         <a href="#about" class="hover:text-white/70 transition-colors uppercase">About</a>
         <a href="#music" class="hover:text-white/70 transition-colors uppercase">Music</a>
-        <a href="#tour" class="hover:text-white/70 transition-colors uppercase">Tour</a>
         <a href="#gallery" class="hover:text-white/70 transition-colors uppercase">Gallery</a>
         <a href="#contact" class="hover:text-white/70 transition-colors uppercase">Contact</a>
       </div>
